@@ -2,6 +2,6 @@ This repository contains the raw data for the following paper, please cite it ac
 
 The main files are listed as follow:
 - Harmonization_data is the raw table with information on each individual Language
-- Harmoization_code is the R code used to generate the results in the paper
+- Harmonization_code is the R code used to generate the results in the paper
 
 Please contact me (website: marctang.com) for any comment or question
