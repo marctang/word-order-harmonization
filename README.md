@@ -6,4 +6,4 @@ The main files are listed as follow :
 - Harmonization_data is the raw table with information on each individual language
 - Harmonization_code is the R code used to generate the results in the paper
 
-Please contact me (personal website: marctang.com) for any comment or question
+Please contact me (personal website: marctang.info) for any comment or question
